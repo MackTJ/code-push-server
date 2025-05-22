@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/0f7c6f93-ec3f-4e92-adc4-ed0c21232810/resourceGroups/codepusheutest/providers/Microsoft.Web/sites/codepush-cpzewdu",
+  "appService.deploySubpath": "api"
+}
